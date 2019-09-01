@@ -35,7 +35,7 @@ Bug Stack game is drum game like real drum app
 
 ## Screenshoot
 <div align="center">
-    <img src="src/Screenshoot/screenshoot.png">
+    <img src="src/Components/bg.png">
 </div>
 
 ## Related Project
